@@ -1,5 +1,5 @@
 # Binary search tree
-The goal of the project was to implement a template binary search tree (BST) in C++.
+The goal of the project was to implement a binary search tree (BST) in C++.
 
 ## Compile and run the code
 
